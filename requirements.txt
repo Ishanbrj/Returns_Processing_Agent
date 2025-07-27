@@ -1,0 +1,8 @@
+streamlit
+groq
+mysql-connector-python
+numpy
+pandas
+Pillow
+pyzbar
+opencv-python
